@@ -1,0 +1,5 @@
+*.PUP
+*.pup
+*.pkg
+*.log
+__pycache__/
